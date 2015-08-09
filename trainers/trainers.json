@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1001",
+      "name": {
+        "first": "David",
+        "last": "Walker"
+      },
+      "trainer-info": {
+        "expertise": ["JS", "UX", "DevOps", "MEAN"],
+        "home-office": "Edinburgh",
+        "email": "dave@qa.com",
+        "title": "Head of Emerging Technology",
+		"region": 3
+      }
+    },
+    {
+      "id": "1002",
+      "name": {
+        "first": "Kat",
+        "last": "McIvor"
+      },
+      "trainer-info": {
+        "expertise": ["DevOps", "Java", "AI", "PHP"],
+        "home-office": "Birmingham",
+        "email": "kat@qa.com",
+        "title": "Principal Technologist - DevOps",
+		"region": 2
+      }
+    },
+	{
+      "id": "1003",
+      "name": {
+        "first": "Chris",
+        "last": "Farrell"
+      },
+      "trainer-info": {
+        "expertise": ["iOS", "Swift", "Xamarin", "Python"],
+        "home-office": "London",
+        "email": "chris@qa.com",
+        "title": "Principal Technologist - Mobile",
+		"region": 1
+      }
+    }
+]
